@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+.container > span { 
+    width: 100%;
+    text-align: center;
+}
+.testContainer--ola {
+    color: green
+}
+.testContainer--ateLogo {
+    color: red
+}
+.labelContainer {
+    background-color: black;
+    padding: 20px;
+    color: #fff;
+}

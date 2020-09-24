@@ -1,0 +1,7 @@
+{
+    "test-component": {
+        "component": "TestComponent",
+        "composition": "children",
+        "render": "client"
+    }
+}

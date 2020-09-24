@@ -1,0 +1,16 @@
+{
+  "store.home": { 
+    "blocks": [
+      "test-component",
+      "rich-text"
+    ]
+  },
+  "rich-text": { 
+    "props": { 
+      "text": "qwe",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  }
+}
